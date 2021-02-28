@@ -1,0 +1,26 @@
+@media {
+	
+	nav {	
+		color: #0366fc;
+		width:15%;
+		flex-flow: column wrap;	
+}
+
+
+main{	
+	width: 75%;
+}
+
+
+p{	
+	color: red;
+}
+
+body {
+	
+	border: 2px solid red;
+
+			background-color: yellow;	
+}
+
+
